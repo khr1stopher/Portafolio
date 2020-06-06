@@ -1,0 +1,16 @@
+
+
+Light Sea Green
+#21A2AD
+
+Thistle
+#DEC3C3
+
+Dark Slate Gray
+#1D2A30
+
+Dark Gray
+#A19397
+
+Slate Gray
+#5C5E61
