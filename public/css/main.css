@@ -1,0 +1,17 @@
+html{
+	background-color: rgb(10, 25, 47) !important;
+	color: #02fcf7;
+}
+body{
+	background: rgb(10, 25, 47);
+}
+nav.nav-bar{
+	background-color: transparent !important;
+}
+.navbar-end a{
+	color: #02fcf7 !important;
+}
+.navbar-end a:hover{
+	background: transparent !important;
+	color: #02fcf7;
+}
